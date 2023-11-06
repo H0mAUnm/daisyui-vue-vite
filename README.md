@@ -1,6 +1,6 @@
 # daisyui-vue-vite
 
-This  should help get you started developing with Vue 3 in Vite.
+This  should help get you started developing with Daisyui and Vue 3 in Vite.
 
 ## Project Setup
 
